@@ -1,1 +1,2 @@
 # Logica
+Em um programa desenvolvido na Linguagem C, foi solicitado que o desenvolvedor criasse uma lógica que calculasse a média de três notas e, logo após, indicasse ao usuário se o aluno foi reprovado (média abaixo de 5), se ficou em recuperação (média entre 5 e 6.9) ou aprovado (acima de 7). Entretanto, o usuário acusa que o programa está com problema, pois ao digitar as três notas, o valor da média se for abaixo de 7 mostra na tela o status errado.
